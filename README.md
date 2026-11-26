@@ -1,4 +1,4 @@
-# My-Python-project-of-the-IKEA-sales
+# My Python project of the IKEA sales
 <img width="958" height="541" alt="image" src="https://github.com/user-attachments/assets/b652d168-4f5a-4632-83ae-8b0a7e1e470e" />
 <img width="961" height="537" alt="image" src="https://github.com/user-attachments/assets/2c290f20-362f-4cc6-a0f4-5d90b3a18d91" />
 <img width="963" height="538" alt="image" src="https://github.com/user-attachments/assets/5c61db11-0832-465b-8a36-745bca4dc537" />
